@@ -1,74 +1,61 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
-
-</header>
-
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
-
-## Welcome
-
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
-
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This course takes less than one hour to complete.
-
-In this course, you will:
-
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
-
-### How to start this course
-
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'introduction-to-github',
-  owner: '@me',
-  name: 'skills-introduction-to-github',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=My+clone+repository&visibility=public)
-
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+<h1><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><strong><u><span style="color:#1155cc;font-size:22pt;font-family:'Dancing Script',cursive;">EcoWatt France&nbsp;</span></u></strong></a><strong><span style="font-size:22pt;font-family:'Dancing Script',cursive;">: favoriser l&rsquo;avenir de l&rsquo;&eacute;nergie durable</span></strong></h1>
+<p><br></p>
+<p><span style="font-size:11pt;font-family:Arial,sans-serif;">Ces derni&egrave;res ann&eacute;es, alors que la communaut&eacute; internationale est confront&eacute;e &agrave; des d&eacute;fis environnementaux pressants, la transition vers les &eacute;nergies renouvelables n&rsquo;a jamais &eacute;t&eacute; aussi urgente. Dans ce contexte de transformation, la France est devenue un leader dans l&rsquo;adoption de solutions &eacute;nerg&eacute;tiques durables. L&rsquo;une de ces initiatives, **</span><a href="https://www.facebook.com/Ecowatt.Avis"><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">EcoWatt France</span></u></a><span style="font-size:11pt;font-family:Arial,sans-serif;">**, fait des progr&egrave;s significatifs dans la promotion de l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique et la r&eacute;duction des &eacute;missions de carbone.</span></p>
+<p><br></p>
+<h1><strong><span style="font-size:22pt;font-family:'Dancing Script',cursive;">Qu&rsquo;est-ce que&nbsp;</span></strong><a href="https://www.facebook.com/Ecowatt.Avis"><strong><u><span style="color:#1155cc;font-size:22pt;font-family:'Dancing Script',cursive;">EcoWatt France</span></u></strong></a><strong><span style="font-size:22pt;font-family:'Dancing Script',cursive;">&nbsp;?</span></strong></h1>
+<p><br></p>
+<p><a href="https://www.facebook.com/Ecowatt.Avis"><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">EcoWatt France</span></u></a><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;est une initiative de pointe con&ccedil;ue pour aider les citoyens et les entreprises fran&ccedil;aises &agrave; optimiser leur consommation d&rsquo;&eacute;nergie, &agrave; r&eacute;duire leur empreinte carbone et &agrave; prendre des d&eacute;cisions &eacute;clair&eacute;es sur leur consommation d&rsquo;&eacute;nergie. Il s&rsquo;agit essentiellement d&rsquo;un outil national visant &agrave; fournir des informations en temps r&eacute;el sur le r&eacute;seau &eacute;lectrique, &agrave; aider les gens &agrave; comprendre comment leur consommation affecte l&rsquo;environnement et &agrave; proposer des mesures pratiques pour r&eacute;duire le gaspillage d&rsquo;&eacute;nergie.</span></p>
+<p><br></p>
+<p><span style="font-size:11pt;font-family:Arial,sans-serif;">D&eacute;velopp&eacute; par RTE (R&eacute;seau de Transport d&rsquo;&Eacute;lectricit&eacute;), le gestionnaire du r&eacute;seau de transport d&rsquo;&eacute;lectricit&eacute; fran&ccedil;ais, EcoWatt est un service gratuit qui aide les utilisateurs &agrave; surveiller et &agrave; g&eacute;rer leur consommation d&rsquo;&eacute;nergie en fournissant des informations actualis&eacute;es sur l&rsquo;&eacute;quilibre entre l&rsquo;offre et la demande d&rsquo;&eacute;lectricit&eacute;.</span></p>
+<p><br></p>
+<p><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><u><span style="color:#1155cc;font-size:16pt;font-family:Impact,sans-serif;">❗✨༻꧂CLICK HERE TO BUY NOW - EcoWatt Avis France❗✨༻꧂</span></u></a></p>
+<p><a href="https://www.facebook.com/Ecowatt.Avis"><u><span style="color:#1155cc;font-size:16pt;font-family:Impact,sans-serif;">❗✨༻꧂CLICK HERE TO BUY NOW - EcoWatt France❗✨༻꧂</span></u></a></p>
+<h1><strong><span style="font-size:22pt;font-family:'Dancing Script',cursive;">Principales fonctionnalit&eacute;s de&nbsp;</span></strong><a href="https://supplementreviews.shop/Ecowatt-FR"><strong><u><span style="color:#1155cc;font-size:22pt;font-family:'Dancing Script',cursive;">EcoWatt France</span></u></strong></a></h1>
+<p><br></p>
+<p><strong><em><span style="font-size:11pt;font-family:Arial,sans-serif;">1. Informations en temps r&eacute;el:&nbsp;</span></em></strong><em><span style="font-size:11pt;font-family:Arial,sans-serif;">EcoWatt fournit aux utilisateurs des donn&eacute;es en temps r&eacute;el sur l&apos;&eacute;tat du r&eacute;seau &eacute;lectrique. Cela inclut des d&eacute;tails sur l&apos;&eacute;tat du r&eacute;seau (vert, orange ou rouge). Le code couleur repr&eacute;sente l&apos;&eacute;quilibre de l&apos;approvisionnement en &eacute;lectricit&eacute; :</span></em></p>
+<p><em><span style="font-size:11pt;font-family:Arial,sans-serif;">- Vert : le r&eacute;seau est en bon &eacute;tat et la consommation d&apos;&eacute;nergie est stable.</span></em></p>
+<p><em><span style="font-size:11pt;font-family:Arial,sans-serif;">- Orange: la demande est &eacute;lev&eacute;e et les utilisateurs sont encourag&eacute;s &agrave; r&eacute;duire leur consommation.</span></em></p>
+<p><em><span style="font-size:11pt;font-family:Arial,sans-serif;">- Rouge : le r&eacute;seau risque d&apos;&ecirc;tre surcharg&eacute; et il est crucial de minimiser la consommation d&apos;&eacute;nergie.</span></em></p>
+<p><br></p>
+<p><strong><em><span style="font-size:11pt;font-family:Arial,sans-serif;">2. Application mobile conviviale:&nbsp;</span></em></strong><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><u><em><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">EcoWatt</span></em></u></a><em><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;est accessible via une application mobile conviviale, permettant aux particuliers de suivre l&apos;&eacute;tat du r&eacute;seau et de recevoir des alertes en temps opportun sur leur smartphone. Cela permet aux utilisateurs d&apos;agir rapidement en r&eacute;duisant la consommation d&apos;&eacute;nergie pendant les p&eacute;riodes de pointe lorsque le r&eacute;seau est sous tension.</span></em></p>
+<p><br></p>
+<p><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><u><span style="color:#1155cc;font-size:16pt;font-family:Impact,sans-serif;">❗✨༻꧂CLICK HERE TO BUY NOW - EcoWatt Avis France❗✨༻꧂</span></u></a></p>
+<p><a href="https://www.facebook.com/Ecowatt.Avis"><u><span style="color:#1155cc;font-size:16pt;font-family:Impact,sans-serif;">❗✨༻꧂CLICK HERE TO BUY NOW - EcoWatt France❗✨༻꧂</span></u></a></p>
+<p><br></p>
+<p><br></p>
+<p><strong><em><span style="font-size:11pt;font-family:Arial,sans-serif;">3. Conseils d&apos;&eacute;conomie d&apos;&eacute;nergie:&nbsp;</span></em></strong><em><span style="font-size:11pt;font-family:Arial,sans-serif;">Le service ne se contente pas d&apos;informer, il &eacute;duque. EcoWatt propose des conseils pratiques pour r&eacute;duire la consommation d&apos;&eacute;nergie &agrave; la maison ou dans les entreprises. Des actions simples comme &eacute;teindre les lumi&egrave;res inutiles &agrave; l&apos;optimisation des syst&egrave;mes de chauffage, EcoWatt fournit des suggestions concr&egrave;tes pour r&eacute;duire la demande d&apos;&eacute;lectricit&eacute;.</span></em></p>
+<p><br></p>
+<p><strong><em><span style="font-size:11pt;font-family:Arial,sans-serif;">4. Encourager la responsabilit&eacute; &eacute;nerg&eacute;tique:</span></em></strong><em><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;En informant les utilisateurs lorsque la demande est &eacute;lev&eacute;e et en les incitant &agrave; adapter leurs habitudes,&nbsp;</span></em><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><u><em><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">EcoWat</span></em></u></a><em><span style="font-size:11pt;font-family:Arial,sans-serif;">t cr&eacute;e un sens collectif de la responsabilit&eacute;. Il vise &agrave; favoriser une culture de sensibilisation &agrave; l&apos;&eacute;nergie, o&ugrave; les citoyens se sentent habilit&eacute;s &agrave; faire des choix qui profitent &agrave; la fois &agrave; l&apos;environnement et au r&eacute;seau national.</span></em></p>
+<p><br></p>
+<p><strong><em><span style="font-size:11pt;font-family:Arial,sans-serif;">5.Soutenir la transition &eacute;nerg&eacute;tique de la France:&nbsp;</span></em></strong><em><span style="font-size:11pt;font-family:Arial,sans-serif;">Avec les objectifs ambitieux de la France de r&eacute;duire les &eacute;missions de gaz &agrave; effet de serre et d&apos;augmenter la part des &eacute;nergies renouvelables dans le r&eacute;seau national,</span></em><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><u><em><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">&nbsp;EcoWatt&nbsp;</span></em></u></a><em><span style="font-size:11pt;font-family:Arial,sans-serif;">joue un r&ocirc;le essentiel dans cette transition. Le service contribue &agrave; la stabilit&eacute; du r&eacute;seau, r&eacute;duit la d&eacute;pendance aux combustibles fossiles pendant les pics de demande et soutient les efforts plus larges de la France pour lutter contre le changement climatique.</span></em></p>
+<p><br></p>
+<p><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><u><span style="color:#1155cc;font-size:16pt;font-family:Impact,sans-serif;">❗✨༻꧂CLICK HERE TO BUY NOW - EcoWatt Avis France❗✨༻꧂</span></u></a></p>
+<p><a href="https://www.facebook.com/Ecowatt.Avis"><u><span style="color:#1155cc;font-size:16pt;font-family:Impact,sans-serif;">❗✨༻꧂CLICK HERE TO BUY NOW - EcoWatt France❗✨༻꧂</span></u></a></p>
+<p><br></p>
+<h1><strong><span style="font-size:22pt;font-family:'Dancing Script',cursive;">Comment&nbsp;</span></strong><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><strong><u><span style="color:#1155cc;font-size:22pt;font-family:'Dancing Script',cursive;">EcoWatt France</span></u></strong></a><strong><span style="font-size:22pt;font-family:'Dancing Script',cursive;">&nbsp;aide l&apos;environnement</span></strong></h1>
+<p><br></p>
+<p><span style="font-size:11pt;font-family:Arial,sans-serif;">La stabilit&eacute; du r&eacute;seau est essentielle pour garantir que les sources d&apos;&eacute;nergie renouvelables, telles que l&apos;&eacute;olien et le solaire, soient pleinement int&eacute;gr&eacute;es au mix &eacute;nerg&eacute;tique. La production d&apos;&eacute;nergie renouvelable peut fluctuer en fonction des conditions m&eacute;t&eacute;orologiques et la demande d&apos;&eacute;lectricit&eacute; n&apos;est pas toujours pr&eacute;visible. En utilisant</span><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">&nbsp;EcoWatt</span></u></a><span style="font-size:11pt;font-family:Arial,sans-serif;">, les particuliers peuvent contribuer &agrave; &eacute;quilibrer le r&eacute;seau en d&eacute;calant leur consommation d&apos;&eacute;lectricit&eacute; vers les heures creuses, lorsque l&apos;&eacute;nergie renouvelable est plus abondante.</span></p>
+<p><br></p>
+<p><span style="font-size:11pt;font-family:Arial,sans-serif;">Lorsque davantage de personnes ajustent leur consommation d&apos;&eacute;nergie en fonction des informations fournies par EcoWatt, la demande globale sur le r&eacute;seau est r&eacute;duite. Cela, &agrave; son tour, r&eacute;duit la n&eacute;cessit&eacute; de recourir &agrave; des centrales &eacute;lectriques &agrave; forte intensit&eacute; de carbone qui se mettent souvent en marche en cas de forte demande. Par cons&eacute;quent,&nbsp;</span><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">EcoWatt&nbsp;</span></u></a><span style="font-size:11pt;font-family:Arial,sans-serif;">contribue indirectement &agrave; r&eacute;duire l&apos;empreinte carbone associ&eacute;e &agrave; la production d&apos;&eacute;lectricit&eacute;.</span></p>
+<p><br></p>
+<p><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><u><span style="color:#1155cc;font-size:16pt;font-family:Impact,sans-serif;">❗✨༻꧂CLICK HERE TO BUY NOW - EcoWatt Avis France❗✨༻꧂</span></u></a></p>
+<p><a href="https://www.facebook.com/Ecowatt.Avis"><u><span style="color:#1155cc;font-size:16pt;font-family:Impact,sans-serif;">❗✨༻꧂CLICK HERE TO BUY NOW - EcoWatt France❗✨༻꧂</span></u></a></p>
+<p><br></p>
+<h1><strong><span style="font-size:22pt;font-family:'Dancing Script',cursive;">Le r&ocirc;le de EcoWatt dans la strat&eacute;gie &eacute;nerg&eacute;tique de la France</span></strong></h1>
+<p><br></p>
+<p><span style="font-size:11pt;font-family:Arial,sans-serif;">La France s&apos;efforce de devenir un leader de la transition &eacute;nerg&eacute;tique, en mettant clairement l&apos;accent sur l&apos;augmentation des sources d&apos;&eacute;nergie renouvelables et l&apos;am&eacute;lioration de l&apos;efficacit&eacute; &eacute;nerg&eacute;tique. La strat&eacute;gie &eacute;nerg&eacute;tique du pays, connue sous le nom de **Programmation Pluriannuelle de l&apos;&Eacute;nergie (PPE)**, vise &agrave; d&eacute;carboner l&apos;&eacute;conomie et &agrave; r&eacute;duire la d&eacute;pendance &agrave; l&apos;&eacute;nergie nucl&eacute;aire.</span></p>
+<p><br></p>
+<p><span style="font-size:11pt;font-family:Arial,sans-serif;">EcoWatt est un outil pr&eacute;cieux dans ce contexte. En proposant des donn&eacute;es en temps r&eacute;el sur la demande du r&eacute;seau et en encourageant les comportements &eacute;conomes en &eacute;nergie, E</span><a href="https://www.facebook.com/Ecowatt.Avis"><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">coWatt France</span></u></a><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;soutient les objectifs &eacute;nerg&eacute;tiques de la France en :</span></p>
+<p><br></p>
+<p><em><span style="font-size:11pt;font-family:Arial,sans-serif;">- R&eacute;duisant le gaspillage d&apos;&eacute;nergie aux heures de pointe</span></em></p>
+<p><em><span style="font-size:11pt;font-family:Arial,sans-serif;">- Soutenant l&apos;int&eacute;gration des sources d&apos;&eacute;nergie renouvelables</span></em></p>
+<p><em><span style="font-size:11pt;font-family:Arial,sans-serif;">- Contribuant &agrave; stabiliser le r&eacute;seau sans d&eacute;pendre des combustibles fossiles</span></em></p>
+<h1><strong><span style="font-size:22pt;font-family:'Dancing Script',cursive;">Conclusion</span></strong></h1>
+<p><a href="https://www.facebook.com/Ecowatt.Avis"><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">EcoWatt Franc</span></u></a><span style="font-size:11pt;font-family:Arial,sans-serif;">e est plus qu&apos;un simple outil : il s&apos;inscrit dans un mouvement plus large vers un avenir &eacute;nerg&eacute;tique durable. En proposant des donn&eacute;es en temps r&eacute;el, des conseils pratiques et en favorisant un sentiment de responsabilit&eacute; collective,&nbsp;</span><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">EcoWatt France</span></u></a><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;permet aux citoyens fran&ccedil;ais de participer activement &agrave; la r&eacute;duction de la consommation d&apos;&eacute;nergie et de soutenir la transition vers une &eacute;nergie plus propre et plus verte.</span></p>
+<p><br></p>
+<p><a href="https://www.facebook.com/Ecowatt.Avis.Fr/"><u><span style="color:#1155cc;font-size:16pt;font-family:Impact,sans-serif;">❗✨༻꧂CLICK HERE TO BUY NOW - EcoWatt Avis France❗✨༻꧂</span></u></a></p>
+<p><a href="https://www.facebook.com/Ecowatt.Avis"><u><span style="color:#1155cc;font-size:16pt;font-family:Impact,sans-serif;">❗✨༻꧂CLICK HERE TO BUY NOW - EcoWatt France❗✨༻꧂</span></u></a></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
